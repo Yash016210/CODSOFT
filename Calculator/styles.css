@@ -6,6 +6,8 @@ html, body {
 }
 
 .button{
+  background-color: blue;
+  color: white;
   width: 66px;
   padding: 20px;
   margin: 0 3px;
@@ -20,8 +22,8 @@ html, body {
 .row input{
   width: 291px;
   font-size: 20px;
-    margin: 0;
-    padding: 10px 0px;
-    border: 2px solid black;
-    border-radius: 5px;
+  margin: 0;
+  padding: 10px 0px;
+  border: 2px solid black;
+  border-radius: 5px;
 }
